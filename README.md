@@ -1,21 +1,54 @@
-<h1 align="center">🎮 Ricna</h1>
-<h3 align="center">Game Developer at Lumiric Studio</h3>
+<div align="center">
 
+# 🎮 Ricna
+### Game Developer @ **Lumiric Studio**
 
-- 🌱 I’m currently learning **Grease Pencil**, PixiJS, Flask, Angular and React
-- 🌱 Software developer since 2002 (Pascal/Delphi, C/C++/C#, Java, PHP, JavaScript/TypeScript, LSL, Python)
-- 🌱 Game developer since 2012 (Unity/C#, Blender, Aseprite, Tiled Map, Krita, Akeytsu, Unreal, Audacity, FLStudio, Cakewalk)
-- 🌱 Love to play piano and acoustic guitar
+*Crafting immersive games and interactive visual/musical experiences.*
 
+<a href="https://lumiric.studio" target="_blank">🌐 Website</a> • <a href="https://lumiric.studio/chase" target="_blank">🎮 Lumiric Chase</a> • <a href="https://lumiric.studio/stage" target="_blank">🎹 Lumiric Stage</a>
 
+---
 
-Things I'm Currently Working on:
+</div>
 
-- 🎮 Lumiric Chase [https://lumiric.studio/chase](https://lumiric.studio/chase)
-An assymetric multiplayer game where one sabouter tries to outsmart 4 dreamers! 
+## 📌 About Me
 
-- 🎹 Lumiric Stage [https://lumiric.studio/stage](https://lumiric.studio/stage)
-Visualize MIDI files and live performances with Floating Labels, Magic Piano, and cinematic Stages designed for streaming, learning, and content creation.
+- 🕹️ **Game Developer since 2012**: Focused on Unity/C#, end-to-end 2D/3D pipelines, art, animation, and audio design.
+- 💻 **Software Developer since 2002**: 20+ years coding across multiple languages and architectures (C/C++/C#, Java, Python, JS/TS, Delphi/Pascal, LSL).
+- 🎹 **Music & Tech**: Pianist and acoustic guitarist passionate about bridging music, MIDI visualization, and code.
+- 🌱 **Currently learning**: **Grease Pencil**
+- 💼 **Currently working professionally with**: Unity/C#, Blender, PixiJS, React, Angular, Flask, Docker, Coolify, Vercel and Stripe API integration.
 
+---
 
+## 🚀 Things I'm Currently Working On
 
+### 🎮 <a href="https://lumiric.studio/chase" target="_blank">Lumiric Chase</a>
+An **asymmetric multiplayer game** where 1 saboteur tries to outsmart and defeat 4 dreamers!
+
+### 🎹 <a href="https://lumiric.studio/stage" target="_blank">Lumiric Stage</a>
+A tool to **visualize MIDI files and live performances** with Floating Labels, Magic Piano, and cinematic stages designed for streaming, learning, and content creation.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Game Dev & 3D** | Unity (C#), Unreal Engine, Blender, Akeytsu |
+| **2D Art & Animation** | Aseprite, Krita, Tiled Map Editor, Grease Pencil |
+| **Audio & Production** | FL Studio, Cakewalk, Audacity |
+| **Programming & Backend** | C#, ASP.NET Core, C/C++, Python, JavaScript/TypeScript, PHP, Java |
+| **Web & Infrastructure** | React, Angular, PixiJS, Flask, Docker, Coolify, Vercel |
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+*(P.S.: Over 80% of my commits and game dev magic happen in private repos! 🥷)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricna&show_icons=true&theme=dracula&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricna&layout=compact&theme=dracula)
+
+</div>
