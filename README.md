@@ -2,11 +2,14 @@
 <h3 align="center">Game Developer at Lumiric Studio</h3>
 
 
-- 🌱 I’m currently learning **Grease Pencil**, Flask and Angular
-- 🌱 Softwre developer since 2002 (Pascal/Delphi, C/C++/C#, Java, PHP, JavaScript/TypeScript, Python)
-- 🌱 Game developer since 2012 (Unity/C#, Unreal, PixiJS)
+- 🌱 I’m currently learning **Grease Pencil**, PixiJS, Flask, Angular and React
+- 🌱 Software developer since 2002 (Pascal/Delphi, C/C++/C#, Java, PHP, JavaScript/TypeScript, LSL, Python)
+- 🌱 Game developer since 2012 (Unity/C#, Blender, Aseprite, Tiled Map, Krita, Akeytsu, Unreal, Audacity, FLStudio, Cakewalk)
+- 🌱 Love to play piano and acoustic guitar
 
-Lumiric Studio products
+
+
+Things I'm Currently Working on:
 
 - 🎮 Lumiric Chase [https://lumiric.studio/chase](https://lumiric.studio/chase)
 An assymetric multiplayer game where one sabouter tries to outsmart 4 dreamers! 
