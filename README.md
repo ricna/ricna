@@ -42,13 +42,3 @@ A tool to **visualize MIDI files and live performances** with Floating Labels, M
 | **Web & Infrastructure** | React, Angular, PixiJS, Flask, Docker, Coolify, Vercel |
 
 ---
-
-<div align="center">
-
-### 📊 GitHub Stats
-*(P.S.: Over 80% of my commits and game dev magic happen in private repos! 🥷)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricna&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricna&layout=compact&theme=dracula)
-
-</div>
