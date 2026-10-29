@@ -17,7 +17,7 @@
 - 💻 **Software Developer since 2002**: 20+ years coding across multiple languages and architectures (C/C++/C#, Java, Python, JS/TS, Delphi/Pascal, LSL).
 - 🎹 **Music & Tech**: Pianist and acoustic guitarist passionate about bridging music, MIDI visualization, and code.
 - 🌱 **Currently learning**: **Grease Pencil**
-- 💼 **Currently working professionally with**: Unity/C#, Blender, PixiJS, React, Angular, Flask, Docker, Coolify, Vercel and Stripe API integration.
+- 💼 **Currently working with**: Unity/C#, Blender, ASP.NET Core, PixiJS, React, Node.js, Angular, Python (Flask & FastAPI), Docker, Coolify, Vercel and Stripe API integration.
 
 ---
 
